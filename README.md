@@ -4,7 +4,7 @@
   
   ![alt text](https://github.com/leogzz0/TC1030_301_Leonardo_Gonzalez/blob/main/Menu.png)
   # Description
-  This app will generate you a README.md file instantly!
+  This app will arrange a bunch of movies and series in which ever order you like. You can get the best rate movies or series, worst rate movies or series, get them by genre or calculate an average of all the ratings.
   # Table of contents
   * [Installation](#installation)
   * [Usage](#usage)
