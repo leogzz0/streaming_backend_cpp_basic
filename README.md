@@ -1,5 +1,5 @@
 # TC1030_301_Leonardo_Gonzalez
-# README-Generator
+# Streaming Backend in C++ (basic)
   https://github.com/leogzz0/TC1030_301_Leonardo_Gonzalez
   # Description
   This app will generate you a README.md file instantly!
