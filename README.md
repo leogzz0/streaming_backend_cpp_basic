@@ -1,4 +1,3 @@
-# TC1030_301_Leonardo_Gonzalez
 # Streaming Backend in C++ (basic)
   https://github.com/leogzz0/TC1030_301_Leonardo_Gonzalez
   
